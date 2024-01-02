@@ -1,20 +1,20 @@
 // NOTICE: Copy this file to your root folder.
 
 /* Personal Information */
-#let firstName = "John"
+#let firstName = "Zichao"
 
-#let lastName = "Doe"
+#let lastName = "Wei"
 
 #let personalInfo = (
-  github: "mintyfrankie",
-  phone: "+33 6 12 34 56 78",
-  email: "john.doe@me.org",
-  linkedin: "johndoe",
+  github: "exusiaiwei",
+  //phone: "+33 6 12 34 56 78",
+  email: "exusiai.wei@outlook.com",
+  //linkedin: "johndoe",
   //custom-1: (icon: "", text: "example", link: "https://example.com"),
   //gitlab: "mintyfrankie",
-  //homepage: "jd.me.org",
-  //orcid: "0000-0000-0000-0000",
-  //researchgate: "John-Doe",
+  homepage: "academic.exusiaiwei.top",
+  orcid: "0009-0008-7739-0648",
+  researchgate: "Zichao-Wei-3",
   //extraInfo: "",
 )
 
@@ -22,8 +22,8 @@
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Experienced Data Analyst looking for a full time job starting from now],
-  "en": [Experienced Data Analyst looking for a full time job starting from now],
+  "": [A passionate seeker of knowledge, dedicated to exploring and innovating in the field of Linguistics.],
+  "en": [A passionate seeker of knowledge, dedicated to exploring and innovating in the field of Linguistics.],
   "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant],
   "zh": [具有丰富经验的数据分析师，随时可入职]
 )
@@ -36,7 +36,7 @@
 )
 
 #let letterFooterInternational = (
-  "": "Cover Letter",
+  "": "Personal Statement ",
   "en": "Cover Letter",
   "fr": "Lettre de motivation",
   "zh": "申请信"

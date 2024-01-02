@@ -3,25 +3,14 @@
 #cvSection("Education")
 
 #cvEntry(
-    title: [Master of Data Science],
-    society: [University of California, Los Angeles],
-    date: [2018 - 2020],
-    location: [USA],
-    logo: "../src/logos/ucla.png",
+    title: [Bachelor of Arts in Literature],
+    society: [Wuhan University],
+    date: [2019.9 - 2023.6],
+    location: [China],
+    logo: "../src/logos/whu.png",
     description: list(
-      [Thesis: Predicting Customer Churn in Telecommunications Industry using Machine Learning Algorithms and Network Analysis],
-      [Course: Big Data Systems and Technologies #hBar() Data Mining and Exploration #hBar() Natural Language Processing]
-    )
-)
-
-#cvEntry(
-    title: [Bachelors of Science in Computer Science],
-    society: [University of California, Los Angeles],
-    date: [2018 - 2020],
-    location: [USA],
-    logo: "../src/logos/ucla.png",
-    description: list(
-      [Thesis: Exploring the Use of Machine Learning Algorithms for Predicting Stock Prices: A Comparative Study of Regression and Time-Series Models],
-      [Course: Database Systems #hBar() Computer Networks #hBar() Software Engineering #hBar() Artificial Intelligence]
+      [GPA: 3.69/4.0],
+      [Thesis: Research on Network Language Classification Features Based on Multidimensional Model],
+      [Course:  Introduction of language technologies #hBar() Computer Fundamentals #hBar() Cognitive Linguistics #hBar() Technology of Digital Communication ]
     )
 )

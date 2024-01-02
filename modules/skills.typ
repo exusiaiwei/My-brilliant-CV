@@ -4,15 +4,15 @@
 
 #cvSkill(
   type: [Languages],
-  info: [English #hBar() French #hBar() Chinese]
+  info: [Chinese - Mother tongue #hBar() English - IELTS：6.5]
 )
 
 #cvSkill(
   type: [Tech Stack],
-  info: [Tableau #hBar() Python (Pandas/Numpy) #hBar() PostgreSQL]
+  info: [Python #hBar() R  #hBar() Git #hBar() LaTeX #hBar() VPS management]
 )
 
 #cvSkill(
-  type: [Personal Interests],
-  info: [Swimming #hBar() Cooking #hBar() Reading]
+  type: [Research Skills],
+  info: [Eye-Tracking (Eyelink) #hBar() Statistical Analysis Methods (Clustering, Regression) #hBar() LLMs Utilization (Local Deployment) ]
 )
